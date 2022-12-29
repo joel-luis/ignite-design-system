@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-call-design-system/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,10 +25,10 @@
     "babel-loader": "^8.2.5"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-call-design-system/eslint-config": "*",
+    "@ignite-call-design-system/react": "*",
+    "@ignite-call-design-system/tokens": "*",
+    "@ignite-call-design-system/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
